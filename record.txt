@@ -1,0 +1,5 @@
+Name: aryan
+Gender: male
+Emergency_contactno: 21464
+Payment_mode: paytm
+
